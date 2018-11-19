@@ -7,5 +7,4 @@ import torch
 import cv2
 print(torch.__version__)
 
-print("hello tf {}".format(tf.__version__)
-
+print("hello tf {}".format(tf.__version__))
